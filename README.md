@@ -1,5 +1,4 @@
-# Emot_Boy — Machine Learning Projects
-
+# WordForThought
 A collection of four supervised machine learning projects covering regression, binary classification, multi-class image classification, and speech emotion recognition using Python (Pandas, Scikit-learn, TensorFlow/Keras, Librosa).
 
 ---
